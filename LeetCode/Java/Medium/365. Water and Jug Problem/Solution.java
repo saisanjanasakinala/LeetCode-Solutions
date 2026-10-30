@@ -1,6 +1,6 @@
 class Solution {
     public boolean canMeasureWater(int x, int y, int target) {
-        if((x+y>=target/2){
+        if((x+y)/2>=target){
             return true;
         }
         return false;
