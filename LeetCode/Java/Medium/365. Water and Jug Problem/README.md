@@ -1,6 +1,6 @@
 # 📝 365. Water and Jug Problem (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/water-and-jug-problem/)
+🔗 [Problem Link](https://leetcode.com/problems/water-and-jug-problem/?envType=problem-list-v2&envId=math)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
