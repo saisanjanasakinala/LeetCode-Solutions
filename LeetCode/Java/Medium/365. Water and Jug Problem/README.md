@@ -1,6 +1,6 @@
 # 📝 365. Water and Jug Problem (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/water-and-jug-problem/?envType=problem-list-v2&envId=math)
+🔗 [Problem Link](https://leetcode.com/problems/water-and-jug-problem/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Math, Depth-First Search, Breadth-First Search, Bézout's Lemma, Euclidean Algorithm, Greatest Common Divisor, Extended Euclidean Algorithm
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 41.8 MB
 
 ---
 
