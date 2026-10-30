@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 5 / 238 (2.1%)
+- **Completed:** 6 / 238 (2.5%)
 
 ---
 
@@ -42,7 +42,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Integer Break
 
 ### 📂 MODULE  2.6: GCD, LCM & EUCLIDEAN ALGORI
-- [ ] Water and Jug Problem
+- [x] [Water and Jug Problem](./Java/Medium/365. Water and Jug Problem/)
 - [ ] Count Odd Numbers in an Interval Range
 
 ### 📂 MODULE  2.7: SERIES, FACTORIAL & NUMBER
