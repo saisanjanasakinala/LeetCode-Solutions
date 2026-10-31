@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 6 / 238 (2.5%)
+- **Completed:** 7 / 238 (2.9%)
 
 ---
 
@@ -31,7 +31,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 ### 📂 MODULE  2.4: PRIME NUMBERS & RANGE MATH
 - [ ] Count Primes
 - [ ] Super Palindromes
-- [ ] Count Numbers with Unique Digits
+- [x] [Count Numbers with Unique Digits](./Java/Medium/357. Count Numbers with Unique Digits/)
 - [ ] Ugly Number
 
 ### 📂 MODULE  2.5: POWER, EXPONENT & LOGIC MAT
