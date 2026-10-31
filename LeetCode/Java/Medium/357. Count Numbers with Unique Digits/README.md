@@ -1,6 +1,6 @@
 # 📝 357. Count Numbers with Unique Digits (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/count-numbers-with-unique-digits/?envType=problem-list-v2&envId=math)
+🔗 [Problem Link](https://leetcode.com/problems/count-numbers-with-unique-digits/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Math, Dynamic Programming, Backtracking
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 41.7 MB
 
 ---
 
