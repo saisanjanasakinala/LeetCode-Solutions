@@ -1,6 +1,6 @@
 # 📝 371. Sum of Two Integers (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/sum-of-two-integers/?envType=problem-list-v2&envId=math)
+🔗 [Problem Link](https://leetcode.com/problems/sum-of-two-integers/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
